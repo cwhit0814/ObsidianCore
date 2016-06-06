@@ -1,3 +1,3 @@
 # ObsidianCore
-Obsidian Core Plugin
-ad
+The Obsidian Core Plugin.
+Test For GIT.
